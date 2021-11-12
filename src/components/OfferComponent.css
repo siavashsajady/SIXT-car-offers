@@ -1,0 +1,18 @@
+#card {
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 1300px;
+  height: auto;
+  margin: 30px;
+}
+
+#img-1 {
+  overflow: hidden;
+  object-fit: cover;
+  width: 500px;
+  height: 400px;
+}
